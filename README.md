@@ -9,5 +9,5 @@ scripts to bypass region IPs from vpn link, means routing to default local gatew
 - bypass vpn for specfic hosts
  usage:
  ```
- sudo bypassvpn.sh douban.fm www.baidu.com
+ $sudo bypassvpn.sh douban.fm www.baidu.com
  ```
